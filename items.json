@@ -1,0 +1,101 @@
+{
+    "item" : [
+        {
+            "SlNo" : 1,
+            "ItemName" : "Rice",
+            "Quantity" :"15",
+            "Unit" : "kg",
+            "Department" : "Groccery",
+            "Notes" : "Basumati"
+                           
+        },
+   
+        {
+            "SlNo" : 2,
+            "ItemName" : "Chips",
+            "Quantity" :5,
+            "Unit" : "Packets",
+            "Department" : "Grocery",
+            "Notes" : "Bingo"
+                           
+        },
+        {
+            "SlNo" : 3,
+            "ItemName" : "Salt",
+            "Quantity" :3,
+            "Unit" : "Packet",
+            "Department" : "Groccery",
+            "Notes" : "Aashirvaad"
+                                
+        },
+      
+        {
+            "SlNo" : 4,
+            "ItemName" : "Sunflower Oil",
+            "Quantity" :4,
+            "Unit" : "Litre",
+            "Department" : "Grocery",
+            "Notes" : "Sundrop"
+                                
+        },
+      
+        {
+            "SlNo" : 5,
+            "ItemName" : "Onion",
+            "Quantity" :2,
+            "Unit" : "kg",
+            "Department" : "Vegitable",
+            "Notes" : "Fresh"
+                                
+        },
+       
+        {
+            "SlNo" : 6,
+            "ItemName" : "Soap",
+            "Quantity" :4,
+            "Unit" : "Piece",
+            "Department" : "Grocery",
+            "Notes" : "Chandrika"
+                                
+        },
+        {
+            "SlNo" : 7,
+            "ItemName" : "Fish",
+            "Quantity" :2,
+            "Unit" : "kg",
+            "Department" : "Fish",
+            "Notes" : "Mackerel."
+                                
+        },
+        {
+            "SlNo" : 8,
+            "ItemName" : "Wheat flour",
+            "Quantity" :5,
+            "Unit" : "kg",
+            "Department" : "Grain",
+            "Notes" : "Fortune"
+                                
+        },
+       
+        
+        {
+            "SlNo" : 9,
+            "ItemName" : "Chilly Powder",
+            "Quantity" :1,
+            "Unit" : "kg",
+            "Department" : "Grocery",
+            "Notes" : "Eastern"
+                                
+        },
+        {
+            "SlNo" : 10,
+            "ItemName" : "Noodles",
+            "Quantity" :5,
+            "Unit" : "Packet",
+            "Department" : "Grocery",
+            "Notes" : "Sunfeast YiPPee!"
+                                
+        }
+    ]
+
+}
