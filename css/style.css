@@ -33,17 +33,18 @@
     text-align: center;
     margin-left: 5%;
     margin-bottom: 10px;
-    margin-right: 10%;
+    margin-right: 5%;
     position: absolute;
     width: 80%;
     font-family:cursive;
     color:black;
+    font-size: larger;
     border-collapse: collapse;
     border: 3px solid black;
     border-radius: 15px;
     margin-top: 20px;
-    background-image: url("./7.jpg");
-    background-size: cover;
+    background:linear-gradient(0deg, rgba(255, 255, 255, 0.5), rgba(255, 255, 255, 0.5)), url(./7.jpg);
+    background-size: cover; 
     -webkit-text-stroke: 1.5px black;
     
 }
@@ -72,6 +73,7 @@
 
   #id1{
       text-align: center;
+      position: static;
   }  
 
 
