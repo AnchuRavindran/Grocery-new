@@ -10,7 +10,7 @@
     margin-left: 5%;
     margin-right: 5%;
     font-size: 25px;
-    position:static
+    
 }
 #b1
 {
@@ -23,7 +23,7 @@
     border-radius: 50px;
     padding: 10PX;
     animation: alternate-reverse;
-    position: static;
+   
 
     
   
