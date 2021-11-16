@@ -28,3 +28,6 @@ function setTable(obj){
     table+="</table>";
     document.getElementById("list").innerHTML=table;
 }
+
+
+
